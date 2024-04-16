@@ -1,6 +1,6 @@
 #  Base de Dados Pizzaria (MODELO LÓGICO)
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.] (https://github.com/itsguisouza/Atividade-de-classe-dia-15-04/blob/main/MODELO%20LOGICO.png?raw=true)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.] (https://github.com/itsguisouza/Atividade-de-classe-dia-15-04/blob/main/MODELO%20LOGICO.png?raw=true).
 
 Exercícios referentes a aula onde as resoluções estão nos prints das seguintes demandas:
 
